@@ -1,2 +1,3 @@
-- 👀 I’m interested in all kinds of technology, which gives some added va
-- - 📫 How to reach me sn [at] nizin [dot] pl.
+- 🔬 Doing research and experimenting.
+- 🆔 My ORCID: [0000-0001-7608-7702](https://orcid.org/0000-0001-7608-7702)
+- 📫 How to reach me: sn [at] nizin [dot] pl.
